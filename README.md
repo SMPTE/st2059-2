@@ -20,9 +20,9 @@ ST 2059-2 is a Precision Time Protocol (PTP) profile for media applications.  Th
 
 Changes in this revision are:
 	•	Modify the way in which SMPTE metadata is transported.
- 	•	Update the version advertised in PTP message headers.
+	•	Update the version advertised in PTP message headers.
 	•	Accommodate the new PTP sdoid field.
- 	•	Update which options are permitted.  There are two specific options about which user feedback is requested below.
+	•	Update which options are permitted.  There are two specific options about which user feedback is requested below.
 	•	Editorial changes such as removing some residual support for peer-to-peer mode.
 
 One challenge in this revision will be accommodating the transition from the current standard. This draft makes some accommodations to allow what may be a long period where systems are a hybrid of devices from the two revisions.

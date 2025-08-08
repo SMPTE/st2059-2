@@ -19,11 +19,15 @@ The following element is made available for a public review period ending no ear
 ST 2059-2 is a Precision Time Protocol (PTP) profile for media applications.  The current revision is compatible with PTP specification IEEE-1588:2008 version 2.0. This proposed draft of ST 2059-2 is intended to be compatible with IEEE-1588:2019 version 2.1.
 
 Changes in this revision are:
-	•	Modify the way in which SMPTE metadata is transported.
-	•	Update the version advertised in PTP message headers.
-	•	Accommodate the new PTP sdoid field.
-	•	Update which options are permitted.  There are two specific options about which user feedback is requested below.
-	•	Editorial changes such as removing some residual support for peer-to-peer mode.
+Modify the way in which SMPTE metadata is transported.
+
+Update the version advertised in PTP message headers.
+ 
+Accommodate the new PTP sdoid field.
+ 
+Update which options are permitted.  There are two specific options about which user feedback is requested below.
+ 
+Editorial changes such as removing some residual support for peer-to-peer mode.
 
 One challenge in this revision will be accommodating the transition from the current standard. This draft makes some accommodations to allow what may be a long period where systems are a hybrid of devices from the two revisions.
 

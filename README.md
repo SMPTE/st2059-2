@@ -12,7 +12,6 @@ Your feedback is welcome at https://github.com/SMPTE/st2059-2/issues.
 ## Public Committee Draft (PCD) Notice
 
 The following element is made available for a public review period ending no earlier than October 31, 2025, and no later than August 8, 2026:
-
 	•	[SMPTE PCD ST 2059-2 Revision of SMPTE ST 2059-2:2021](./32NF-PCD-ST-2059-2-revision-PTP-Profile-2024-10-04.pdf)
 
 ## Details

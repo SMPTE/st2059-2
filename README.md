@@ -9,9 +9,11 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome at https://github.com/SMPTE/st2059-2/issues.
 
+<!-- PCD-INFO:START -->
+
 ## Public Committee Draft (PCD) Notice
 
-The following element is made available for a public review period ending no earlier than October 31, 2025, and no later than August 8, 2026:
+The following element is made available for a public review period ending no earlier than 2025-10-31, and no later than 2026-08-08:
 
 [SMPTE PCD ST 2059-2 Revision of SMPTE ST 2059-2:2021](./32NF-PCD-ST-2059-2-revision-PTP-Profile-2024-10-04.pdf)
 
@@ -39,3 +41,4 @@ There are two options in IEEE-1588:2019 on which feedback relative to user inter
 For the Follower event monitoring option, the question is how compelling is this for media applications?   Will it provide significant value?  If there is significant interest, then there will be some follow up discussion on specifics of how it would operate.
 
 For the PTP integrated security option, the first question is are users interested?  The second question is which key management process is preferred: the GDOI method in IEEE-1588d-2023 or the NTS4PTP method being proposed by the IETF?
+<!-- PCD-INFO:END -->
